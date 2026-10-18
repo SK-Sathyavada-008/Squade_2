@@ -1,0 +1,25 @@
+# Bug: palindrome checker compares adjacent characters
+
+**Difficulty:** Medium  
+**Topic:** Beginner Java  
+**Starter file:** `src/main/java/hackathon/Issue10_Palindrome.java`
+
+## Problem
+The starter program contains an intentional bug. Read the code, reproduce the incorrect behavior, and make a minimal fix.
+
+## Task
+Compare characters from the beginning and end, moving inward.
+
+Acceptance criteria:
+- Return true for a palindrome and false otherwise.
+- Assume lowercase English letters only.
+
+
+## Done when
+- [ ] The expected examples work.
+- [ ] You test at least one additional edge case.
+- [ ] No unrelated changes are included.
+- [ ] You can explain the bug and fix in your own words.
+
+## Pull request
+Open one PR for this issue. In the PR description, explain the problem, the fix, and how you tested it. Follow the repository's `CONTRIBUTING.md`.
